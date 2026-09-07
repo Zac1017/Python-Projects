@@ -1,3 +1,5 @@
+#Python Project 3: Display a calendar for a given month and year, highlighting a specific day
+
 import calendar
 
 year = int(input("Enter year: "))
